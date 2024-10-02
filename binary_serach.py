@@ -1,3 +1,5 @@
+##Binary search only works on sorted elements!!!
+
 def binary_serach(array, target):
   left = 0
   right = len(array) - 1
