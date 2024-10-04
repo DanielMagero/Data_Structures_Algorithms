@@ -7,7 +7,7 @@ def linear_search(array, target):
   
 
 data = [2,5,9,1,6]
-target = 6
+target = 8
 
 result = linear_search(data, target)
 print(result)
